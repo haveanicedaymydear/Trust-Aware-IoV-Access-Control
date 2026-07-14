@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you reference this public project archive, please cite this repository."
+title: "Trust-Aware IoV Access Control Prototype"
+version: 1.0.0
+date-released: 2026-07-14
+authors:
+  - family-names: Zhou
+    given-names: Livan
+    email: zhoulivan@gmail.com
+repository-code: "https://github.com/haveanicedaymydear/Trust-Aware-IoV-Access-Control"
+license: MIT
